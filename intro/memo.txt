@@ -1,0 +1,14 @@
+JSON - JavaScript Onject Notation
+
+- Data representation format
+- Commonly used for APIs and configs
+- Lightweight and easy to read/wright
+- Integrates easily with most languages
+
+JSON Types
+1. String
+2. Numbers
+3. Booleans
+4. null
+5. Arrays
+6. Objects
